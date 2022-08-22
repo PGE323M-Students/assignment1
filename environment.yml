@@ -1,0 +1,7 @@
+name: assignment1
+channels:
+- conda-forge
+- defaults
+dependencies:
+- pip=10.0.1
+- python=3.6.5
